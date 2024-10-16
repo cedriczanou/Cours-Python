@@ -1,2 +1,2 @@
-def soustraction(a,b):
- return a-b
+def multiplicationt(a,):
+ return a*b
